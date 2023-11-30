@@ -1,0 +1,68 @@
+.cab {
+    border: solid;
+    border-color: #25502D;
+    display: flex;
+    align-items: center;
+    color:#0088b6;
+}
+
+.LogoJames {
+    max-width: 200px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+.prin {
+    padding-bottom: 10px;
+}
+
+.biotec {
+    font-weight: lighter;
+    text-align: center;
+}
+
+.titulo {
+    font-weight: lighter;
+    text-align: center;
+}
+
+.nome {
+    font-weight: lighter;
+    text-align: center;
+}
+
+.resumo {
+    padding: 0px 10px;
+    border: solid;
+    border-color: #25502D;
+}
+
+.textresu {
+    text-align: justify;
+}
+
+.imgplanta {
+    max-width: 500px;
+    max-height: 450px;
+    width: auto;
+    height: auto;
+    margin: auto;
+    display: block;
+    padding-bottom: 10px;
+}
+
+.final {
+    padding: 0px 10px 10px;
+    border: solid;
+    border-color: #25502D;
+    margin-top: 10px;
+}
+
+.pdf {
+    border: 1px solid #25502D;
+    border-radius: 3px;
+    padding: 2px 1em;
+    color: #25502D;
+    text-decoration: none;
+}
