@@ -230,3 +230,11 @@ justify-content: end;
     color: #343FA5;
     text-decoration: none;
 }
+
+.Banner {
+    border: 1px solid #343FA5;
+    border-radius: 3px;
+    padding: 2px 1em;
+    color: #343FA5;
+    text-decoration: none;
+}
